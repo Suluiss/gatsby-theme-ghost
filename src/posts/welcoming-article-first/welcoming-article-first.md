@@ -1,5 +1,5 @@
 ---
-title: 'Welcoming to write first post'
+title: 'decentralized media'
 date: 2019-06-10T00:00:00+5:30
 draft: false
 feature_image: network-world.png
@@ -11,24 +11,18 @@ weight: 2
 page: false
 tags: 
     - learning
-slug: 'welcoming-to-first-article'
-author: 'akansh'
-comment: false
+slug: 'decentralized media'
+author: 'sulu'
+comment: true
 meta_description: ''
-id: 'first-article'
+id: '0001'
 ---
 
-Welcome to gatsby-starter!
+, a Proof-of-Work DNS protocol spearheaded by the co-creator of Bitcoin’s Lightning Network, has launched its mainnet in its bid to decentralize trusted Certificate Authorities and replace authoritative bodies like ICANN that govern top-level domains (TLDs) like “.com” and “.org.” The project has maintained a low profile since debuting in August 2018, when news broke Handshake had raised $10.2 million in stealth from a16z Crypto, Draper Associates, Founders Fund, Sequoia Capital and other big-name VCs. Handshake’s mainnet officially went live at 1700 UTC Monday.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique lacus vitae diam posuere faucibus. In hac habitasse platea dictumst. Ut id arcu non risus tincidunt commodo. Sed felis leo, pharetra non porttitor sodales, sodales dictum tortor. Vivamus vel neque interdum, egestas urna ac, finibus tellus. Morbi et rhoncus ligula, nec volutpat dolor. Cras efficitur ipsum a facilisis laoreet. Duis ut libero eget mi convallis maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque blandit sit amet erat vel semper.
+At the same time, Namebase, a domain registrar, cloud wallet, and exchange for Handshake also backed by a16z Crypto, launched its exchange services for Handshake token (HNS). Namebase users will eventually be able to purchase domains on Handshake and use email-style crypto addresses to send and receive Bitcoin and other tokens in a vein similar to Ethereum-based Unstoppable Domains, who recently added support for MyEtherWallet.
 
-Ut egestas nisl in nunc accumsan, et interdum erat finibus. Fusce commodo ex nec imperdiet fermentum. Suspendisse non nulla eu eros rutrum vestibulum. Curabitur sit amet tortor venenatis, efficitur felis non, commodo urna. Aliquam ut auctor risus. Nullam nec felis pellentesque, tincidunt erat ut, aliquam neque. Ut elementum aliquam leo.
-
-Pellentesque sit amet purus a erat tincidunt elementum. Mauris lobortis egestas tellus, vel blandit tortor pellentesque at. Suspendisse potenti. Aenean vehicula, dolor ac interdum fermentum, velit elit fermentum nisi, in hendrerit nisi dolor semper est. Cras ullamcorper eros nec lacus maximus, a tincidunt ipsum feugiat. Quisque dignissim bibendum orci nec vestibulum. Phasellus accumsan eleifend posuere. Aliquam urna neque, auctor id accumsan nec, viverra vel tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sagittis libero ut porttitor lobortis. Nam nec felis tellus. Praesent ipsum ipsum, consectetur non hendrerit non, egestas et felis.
-
-Donec pretium facilisis orci, vitae blandit ex gravida a. Etiam a augue urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce finibus urna lectus, eu iaculis massa tempus non. Maecenas in lectus massa. In ut ipsum eleifend, condimentum libero ut, ultricies massa. Integer viverra fringilla sem. Mauris nulla mi, accumsan sed hendrerit ut, tincidunt quis neque. Nullam egestas sem neque, id porta nunc sagittis quis.
-
-Morbi libero sem, molestie nec volutpat ac, volutpat eget dui. Phasellus ante turpis, blandit accumsan facilisis volutpat, bibendum vehicula metus. Fusce pellentesque orci ac imperdiet vestibulum. Aenean aliquam et elit sit amet eleifend. Vivamus libero lacus, porta quis neque a, tincidunt cursus lorem. Nulla placerat gravida nulla, in vestibulum risus lobortis ut. Proin sit amet varius arcu. Sed tincidunt vitae lectus vitae pretium. Fusce malesuada nec diam blandit pharetra. Vivamus fringilla elit ut odio sollicitudin, a convallis nulla dictum. Proin porta nisi eu cursus hendrerit. Donec vel tortor at magna maximus placerat gravida nec ligula.
+Users will also be able to bid on Namebase for unique TLDs like “.guy” using the HNS token, and then earn HNS whenever someone registers a sub-domain to that TLD.
 
 ```javascript
 const plop = "coucou";
